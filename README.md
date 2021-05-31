@@ -5,7 +5,7 @@
 
 <p align="center">
 <b>This windows form game was developted in c# using windows forms .net framework. </br>
-This file fully describes the game, how should it be played and the logic behind it.</b></br>
+This file fully describes the game, how should it be played and the logic behind it.</b></br></br>
 This game uses a collision detection logic using the Distance Formula between two points that is derived from the Pythagorean Theorem.
 </p>
 
