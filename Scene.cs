@@ -140,11 +140,9 @@ namespace BallCollision
         //MOVING
         public void MoveLeft()
         {
-            PlayerBall.Move(new Point(PlayerBall.Center.X - 5, PlayerBall.Center.Y));
         }
         public void MoveRight()
         {
-            PlayerBall.Move(new Point(PlayerBall.Center.X + 5, PlayerBall.Center.Y));
         }
         public void MoveUp()
         {
