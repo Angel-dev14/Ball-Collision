@@ -108,7 +108,7 @@ namespace BallCollision
                 if (Balls[i].ToBeDeleted)
                     Balls.RemoveAt(i);
             }
-            if(Balls.Count < 3)
+            if(Balls.Count < 5)
             {
                 GenerateBalls();
             }
