@@ -19,13 +19,13 @@ This game uses a collision detection logic using the Distance Formula between tw
 <h2> HOW TO PLAY </h2>
 
 <ol>
-<li>Upon starting the player can click at random empty location to spawn his player ball. The player ball is with the color blue.</li>
-<li>The player can move it's blue ball using the keyboard keys: <b> W S A D </b>. </li>
-<li>If the player comes in collision with a smaller or equal ball to his, the player's ball increases in size by 30% of the collided ball.</li>
-<li>If the player comes in collision with a bigger ball than his, the player's ball is taken by the bigger ball and the game ends.</li>
-<li>Every 3 seconds the player's ball decreases by 2 at least and 15 at most, depending on the player's ball size.</li>
-<li>If the ball shirinks to size 0, the game ends.</li>
-<li>Random small balls are being generated every 5 seconds, and random number of balls are added to the scene when less than 5 balls left.</li>
+  <li>Upon starting the player can click at random empty location to spawn his player ball. The player ball is with the color blue.</li>
+  <li>The player can move it's blue ball using the keyboard keys: <b> W S A D </b>. </li>
+  <li>If the player comes in collision with a smaller or equal ball to his, the player's ball increases in size by 30% of the collided ball.</li>
+  <li>If the player comes in collision with a bigger ball than his, the player's ball is taken by the bigger ball and the game ends.</li>
+  <li>Every 3 seconds the player's ball decreases by 2 at least and 15 at most, depending on the player's ball size.</li>
+  <li>If the ball shirinks to size 0, the game ends.</li>
+  <li>Random small balls are being generated every 5 seconds, and random number of balls are added to the scene when less than 5 balls left.</li>
 </ol>
 
 <p align="center" >Developed by: Angel Petrushevski ©</p>
